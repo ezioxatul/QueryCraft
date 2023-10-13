@@ -1,0 +1,2 @@
+# QueryCraft
+QueryCraft is a powerful and user-friendly Windows application, built with C#, that simplifies the management of MySQL databases. It provides a seamless experience for developers, database administrators, and data analysts, allowing them to effortlessly view, query, and modify data stored in MySQL database servers. With an intuitive graphical user interface, QueryCraft streamlines database interaction, making it an essential tool for anyone working with MySQL databases.
